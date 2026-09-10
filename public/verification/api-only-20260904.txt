@@ -1,1 +1,1 @@
-API-only verification: first public content.
+API-only verification: final public content.
