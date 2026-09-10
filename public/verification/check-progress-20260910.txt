@@ -1,0 +1,2 @@
+Git Link check lifecycle verification.
+The source check is visible while synchronization is running.
