@@ -1,0 +1,1 @@
+Check bypass acceptance fixture.
