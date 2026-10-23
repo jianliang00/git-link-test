@@ -1,0 +1,2 @@
+Git Link one-way synchronization fixture.
+Revision: 2026-09-01-4
